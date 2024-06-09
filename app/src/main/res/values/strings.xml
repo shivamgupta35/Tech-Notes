@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TechNotez</string>
+    <string name="sign_in_text">Welcome back!</string>
+    <string name="sign_in_username_text">Username</string>
+    <string name="sign_in_password_text">Password</string>
+    <string name="login_btn_text">LOGIN</string>
+    <string name="create_new_account_text">New user? Click here to Sign Up!</string>
+
+    <string name="sign_up_text">Let\'s Get Started</string>
+    <string name="name_label_text">Name</string>
+    <string name="dob_label_text">Date of birth</string>
+    <string name="username_label_text">Username</string>
+    <string name="pwd_label_text">Password</string>
+    <string name="terms_and_conditions_text">By clicking Sign Up, you agree to the terms and conditions and privacy policy</string>
+    <string name="sign_up_btn_text">SIGN UP</string>
+    <string name="login_into_existing_account">Already have an account? Sign In!</string>
+
+
+</resources>
